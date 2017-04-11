@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VADL 2017: Workshop on Visual Analytics for Deep Learning</title>
+    <link>https://vadl2017.github.io/</link>
+    <description>Recent content on VADL 2017: Workshop on Visual Analytics for Deep Learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 12:11:22 -0400</lastBuildDate>
+    
+	<atom:link href="https://vadl2017.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://vadl2017.github.io/index/</link>
+      <pubDate>Tue, 11 Apr 2017 12:11:22 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/index/</guid>
+      <description>Recently, deep neural networks have been achieving breakthroughs in various major artificial intelligence tasks such as machine translation, image understanding, speech recognition, and so on. In these tasks, deep neural networks reached the level of an accuracy comparable to or even better than humans’ performance.
+The primary goal of the workshop is to bridge the gap by bringing together researchers from both machine learning and visual analytics fields, which allows us to push the boundary of deep learning.</description>
+    </item>
+    
+  </channel>
+</rss>
