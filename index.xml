@@ -7,13 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 12:11:22 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2017 14:56:02 -0400</lastBuildDate>
     
 	<atom:link href="https://vadl2017.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
+      <title>Schedule of Events</title>
+      <link>https://vadl2017.github.io/schedule/index/</link>
+      <pubDate>Thu, 13 Apr 2017 14:56:02 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/schedule/index/</guid>
+      <description>Hello world Hello.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://vadl2017.github.io/test/index/</link>
+      <pubDate>Thu, 13 Apr 2017 15:26:17 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/test/index/</guid>
+      <description>Hello who are you</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://vadl2017.github.io/test/test/</link>
+      <pubDate>Thu, 13 Apr 2017 15:32:32 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/test/test/</guid>
+      <description>Are you crzay?</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://vadl2017.github.io/call-for-papers/index/</link>
+      <pubDate>Thu, 13 Apr 2017 14:56:14 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/call-for-papers/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://vadl2017.github.io/organizers/index/</link>
+      <pubDate>Thu, 13 Apr 2017 14:55:28 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/organizers/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://vadl2017.github.io/index/</link>
       <pubDate>Tue, 11 Apr 2017 12:11:22 -0400</pubDate>
       

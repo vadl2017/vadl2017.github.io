@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call-for-papers on VADL 2017: Workshop on Visual Analytics for Deep Learning</title>
+    <link>https://vadl2017.github.io/call-for-papers/</link>
+    <description>Recent content in Call-for-papers on VADL 2017: Workshop on Visual Analytics for Deep Learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 14:56:14 -0400</lastBuildDate>
+    
+	<atom:link href="https://vadl2017.github.io/call-for-papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>index</title>
+      <link>https://vadl2017.github.io/call-for-papers/index/</link>
+      <pubDate>Thu, 13 Apr 2017 14:56:14 -0400</pubDate>
+      
+      <guid>https://vadl2017.github.io/call-for-papers/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
